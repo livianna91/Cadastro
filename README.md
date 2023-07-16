@@ -11,7 +11,7 @@
 <br>
 
 ### Funcionalidades
-## #A funcionalidade básica do formulário inclui:
+### A funcionalidade básica do formulário inclui:
 
 #### Campos de entrada para informações pessoais, como nome, email, senha e confirmação de senha.<br>
 #### Validação dos campos, garantindo que eles sejam preenchidos corretamente antes de enviar o formulário.<br>
